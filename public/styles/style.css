@@ -1,0 +1,5 @@
+.container {
+    margin: auto;
+    background-image: url(../images/newyorker.jpg); 
+    background-color: gray;
+}
